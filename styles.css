@@ -7,7 +7,8 @@
 
 /* Body and general layout */
 body {
-  font-family: 'Arial', sans-serif;
+    /* change the font later */
+  font-family: 'Courier New', monospace;
   background-color: #f4f4f9;
   color: #333;
   line-height: 1.6;
@@ -50,7 +51,7 @@ body {
   margin-top: 30px;
 }
 
-/* Main column (blog posts) */
+/* Main column */
 .main-column {
   flex: 0 0 70%;
 }
